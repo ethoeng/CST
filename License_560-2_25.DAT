@@ -1,0 +1,79 @@
+# ----------------------------------------------------------------------
+# CST STUDIO SUITE(tm) License File
+# ----------------------------------------------------------------------
+# 
+# License ID: 560-2
+# 
+# - License Type: Node Locked
+# - Contract Type: Perpetual
+# - Usage Type: Commercial
+# 
+# - License Period: 08-Dec-2015 - 30-Apr-2017
+# - Maintenance Expiry: 30-Jan-2017
+# 
+# - Service Pack Grace Period: 2 Months
+# 
+# - Frontend: 1
+# - Simulation Processes: 1
+# - Solver Modules:
+#    max. 1 E (Eigenmode)
+#    max. 1 TRK (Tracking)
+#    max. 1 WAK (Wakefield)
+#    max. 1 DS (Circuit Simulator)
+# 
+# - Less optimizer
+# 
+#
+#
+# CST LICENSE SERVER
+# ----------------------------------------------------------------------
+#
+#
+SERVER this_host FLEXID=9-1AC4729C 27000
+DAEMON cstd
+#
+#
+# LICENSED FEATURES
+# ----------------------------------------------------------------------
+#
+#
+FEATURE frontend cstd 2017.0330 30-apr-2017 1 \
+	HOSTID=FLEXID=9-1AC4729C DUP_GROUP=V START=08-dec-2015 \
+	SIGN2="02BF 6EE0 2EDB 9BA7 8BB1 30F2 4AD3 6197 3CCF E6BE 049E \
+	7E64 122A 8255 BDB5 1312 CD06 DCA9 C553 5178 3432 C653 3217 \
+	FA57 C7B4 8FD3 500D 7405 D086 BC62"
+FEATURE SimulationProcess cstd 2017.0330 30-apr-2017 1 \
+	VENDOR_STRING=commercial;0 HOSTID=FLEXID=9-1AC4729C \
+	DUP_GROUP=V START=08-dec-2015 SIGN2="0113 42E4 FFCF 8E1A 07BC \
+	DB97 895E C83A 61EE B5EF 1CDA 5BC9 444D 03F5 E8FE 0860 7E00 \
+	7BD7 FA58 3233 C345 582C EA0C F9D8 F377 2DC7 EAD5 AE80 E2AB \
+	15D3"
+FEATURE Solver_Eigenmode cstd 2017.0330 30-apr-2017 1 \
+	HOSTID=FLEXID=9-1AC4729C DUP_GROUP=V START=08-dec-2015 \
+	SIGN2="12B9 CC30 B022 54CB 90C1 E364 82C9 642F 0A27 59D5 B5E6 \
+	30B5 1555 24FC 44D4 1C67 6AB9 5958 CEC4 0C26 2F36 7F4C 41A3 \
+	FC73 F82A 9784 26B2 7E81 C08D EB15"
+FEATURE Solver_Tracking cstd 2017.0330 30-apr-2017 1 \
+	HOSTID=FLEXID=9-1AC4729C DUP_GROUP=V START=08-dec-2015 \
+	SIGN2="19F6 65C2 0013 60FA 7884 254F 2F85 E999 1493 434D 9F98 \
+	E170 0291 E002 F33C 05CF 457C 52CF B48D 1CB5 BD67 8021 C29B \
+	9273 ECCF E85C 2542 013A 5316 4B26"
+FEATURE Solver_Wakefield cstd 2017.0330 30-apr-2017 1 \
+	HOSTID=FLEXID=9-1AC4729C DUP_GROUP=V START=08-dec-2015 \
+	SIGN2="1C6E A23D F340 6DB4 14CC C1A1 67CA 5526 A0CB 61F1 95BA \
+	BEE7 A631 6F3D 2939 095E FEFB BB2B 3346 4B44 9B09 274A 9E9D \
+	5AAC A428 71F4 1446 1C17 A7BF A368"
+FEATURE Solver_CircuitSimulator cstd 2017.0330 30-apr-2017 1 \
+	HOSTID=FLEXID=9-1AC4729C DUP_GROUP=V START=08-dec-2015 \
+	SIGN2="12E1 C6E2 8D79 BDBB DDA4 D1CE 03DD DEF6 118E FEDF A3FF \
+	50FB 344E 9EA9 9ABF 01F9 124F D851 A6A4 D12E 725D D33E 136C \
+	BB40 293C 9A1B 9D58 6299 FD74 7705"
+FEATURE start cstd 2017.0330 30-apr-2017 1 \
+	VENDOR_STRING=commercial;560-2;30-01-2017 \
+	HOSTID=FLEXID=9-1AC4729C DUP_GROUP=V START=08-dec-2015 \
+	SIGN2="1CBB C1B0 4C1D BD64 2888 9F62 64B4 FAB8 7DCB AC18 675E \
+	2477 16A9 067C CEC8 0C3A 2141 E808 8A8A 4041 8853 96CC BFD3 \
+	8680 4734 2E5B 8F7D 1FBA EA2E 4B21"
+#
+#       --------------------- End of License File ---------------------
+#
