@@ -1,0 +1,40 @@
+
+              Logfile of Field Evaluation
+              ===========================
+
+Calculation window:
+===================
+
+ Coordinate System       : global (xyz)   cartesian
+ Dimension               : 3D
+ Stepsize                : 4.37317
+
+                 low        high    stepsize
+         ----------- ----------- -----------
+       X      -103.3       103.3  4.3957E+00
+       Y      -103.3       103.3  4.3957E+00
+       Z      -635.6       694.6  4.3757E+00
+
+Evaluated field, component and result value:
+============================================
+
+ Evaluated field         : Modes\Mode 9\e
+ Field component         : Abs
+ Complex                 : Mag
+ Result Value            : Maximum-3D
+
+
+Result Data:
+============
+
+ NData Points = 671536
+
+ Max. value   =   6.0963E+06 at ( -3.0770E+01/ -2.1979E+01/ -4.1025E+02)
+ Min. value   =            0 at ( -1.0110E+02/ -1.0110E+02/ -6.3341E+02)
+ Mean value   =   1.1476E+06
+ Deviation    =            2
+
+ Integral     =   6.5155E+04
+ Volume (Unit)=   5.6778E+07 mm^3
+ Volume (SI)  =   5.6778E-02 m^3
+

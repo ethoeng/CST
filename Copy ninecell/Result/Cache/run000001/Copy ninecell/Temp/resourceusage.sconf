@@ -1,0 +1,6 @@
+FeatureKeywords:string:mesh:param:assertfailed, mesh:lib:blsurf, mesh:lib:ghs3d, acceleration:cpu, acceleration:cpu:48, background:pec, boundary:electric:xmax, boundary:electric:ymax, boundary:electric:zmax, boundary:electric:zmin, boundary:magnetic:xmin, boundary:magnetic:ymin, boundary:symmetry plane:electric:zmin, boundary:symmetry plane:magnetic:xmin, boundary:symmetry plane:magnetic:ymin, mesh:tet, mesh:tet:adaptive, monitor:none, solver:hf:eigenmode, solver:hf:eigenmode:Lossesinpp, solver:hf:eigenmode:order:2, source:none, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:GHz, units:Inductance:nH, units:Length:mm, units:Resistance:Ohm, units:Temperature:Kelvin, units:Time:ns, units:Voltage:V, la:direct, visualization:mesh_view:default_engine, visualization:field_plot:default_engine, postprocess:loss and Q, postprocess:evaluate field, postprocess:evaluate field:default viewer
+LastWorkflowState:string:tetmesh:success
+gpt/MaxResidentSizeMiB:int:50
+solver_hf_tet_e/MaxResidentSizeMiB:int:490
+tetmesh/MaxResidentSizeMiB:int:83
+---

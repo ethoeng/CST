@@ -1,0 +1,17 @@
+[Version]
+2
+[Author]
+ethoeng
+[Mesh Cells]
+16,242
+[Mesh Type]
+Tetrahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Eigenmode
+[Last Solver Type Abb]
+e
+[Results]
+Eigenmodes
+[Comment]

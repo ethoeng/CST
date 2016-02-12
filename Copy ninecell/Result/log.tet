@@ -1,0 +1,367 @@
+=== BEGIN SESSION ==========================================================
+[16:35:53] Build: 64bit; Number: 20151030; ID: 2015.6 Release from 2015-10-30 (change 399873); Date: 2015-10-30
+[16:35:53] ACIS version: 24.0.2
+[16:35:53] SPAresabs = 1e-006
+[16:35:53] SPAresnor = 1e-010
+[16:35:53] Reading entity list
+[16:36:02] Using new attribute mapping scheme
+[16:36:02] UID: 1 EIDs: 66, 
+[16:36:02] UID: 2 EIDs: 65, 
+[16:36:02] UID: 3 EIDs: 108, 
+[16:36:02] UID: 4 EIDs: 107, 
+[16:36:02] UID: 5 EIDs: 64, 
+[16:36:02] UID: 6 EIDs: 109, 
+[16:36:02] UID: 7 EIDs: 63, 
+[16:36:02] UID: 8 EIDs: 110, 
+[16:36:02] UID: 9 EIDs: 62, 
+[16:36:02] UID: 10 EIDs: 111, 
+[16:36:02] UID: 11 EIDs: 61, 
+[16:36:02] UID: 12 EIDs: 112, 
+[16:36:02] UID: 13 EIDs: 60, 
+[16:36:02] UID: 14 EIDs: 92, 
+[16:36:02] UID: 15 EIDs: 81, 
+[16:36:02] UID: 16 EIDs: 80, 
+[16:36:02] UID: 17 EIDs: 89, 
+[16:36:02] UID: 18 EIDs: 88, 
+[16:36:02] UID: 19 EIDs: 79, 
+[16:36:02] UID: 20 EIDs: 78, 
+[16:36:02] UID: 21 EIDs: 95, 
+[16:36:02] UID: 22 EIDs: 94, 
+[16:36:02] UID: 23 EIDs: 67, 
+[16:36:02] UID: 24 EIDs: 106, 
+[16:36:02] UID: 25 EIDs: 68, 
+[16:36:02] UID: 26 EIDs: 105, 
+[16:36:02] UID: 27 EIDs: 69, 
+[16:36:02] UID: 28 EIDs: 104, 
+[16:36:02] UID: 29 EIDs: 70, 
+[16:36:02] UID: 30 EIDs: 103, 
+[16:36:02] UID: 31 EIDs: 77, 
+[16:36:02] UID: 32 EIDs: 96, 
+[16:36:02] UID: 33 EIDs: 76, 
+[16:36:02] UID: 34 EIDs: 97, 
+[16:36:02] UID: 35 EIDs: 75, 
+[16:36:02] UID: 36 EIDs: 98, 
+[16:36:02] UID: 37 EIDs: 74, 
+[16:36:02] UID: 38 EIDs: 99, 
+[16:36:02] UID: 39 EIDs: 73, 
+[16:36:02] UID: 40 EIDs: 100, 
+[16:36:02] UID: 41 EIDs: 72, 
+[16:36:02] UID: 42 EIDs: 101, 
+[16:36:02] UID: 43 EIDs: 71, 
+[16:36:02] UID: 44 EIDs: 102, 
+[16:36:02] UID: 45 EIDs: 85, 
+[16:36:02] UID: 46 EIDs: 84, 
+[16:36:02] UID: 47 EIDs: 113, 
+[16:36:02] UID: 48 EIDs: 114, 
+[16:36:02] UID: 49 EIDs: 83, 
+[16:36:02] UID: 50 EIDs: 82, 
+[16:36:02] UID: 51 EIDs: 87, 
+[16:36:02] UID: 52 EIDs: 86, 
+[16:36:02] UID: 53 EIDs: 93, 
+[16:36:02] UID: 54 EIDs: 90, 
+[16:36:02] UID: 55 EIDs: 42, 59, 
+[16:36:02] UID: 56 EIDs: 40, 
+[16:36:02] UID: 57 EIDs: 41, 
+[16:36:02] UID: 58 EIDs: 39, 91, 
+[16:36:02] UID: 59 EIDs: 43, 
+[16:36:02] UID: 60 EIDs: 45, 
+[16:36:02] UID: 61 EIDs: 44, 
+[16:36:02] UID: 62 EIDs: 46, 
+[16:36:02] UID: 63 EIDs: 121, 
+[16:36:02] UID: 64 EIDs: 170, 
+[16:36:02] UID: 65 EIDs: 164, 
+[16:36:02] UID: 66 EIDs: 171, 
+[16:36:02] UID: 67 EIDs: 120, 
+[16:36:02] UID: 68 EIDs: 172, 
+[16:36:02] UID: 69 EIDs: 165, 
+[16:36:02] UID: 70 EIDs: 119, 
+[16:36:02] UID: 71 EIDs: 173, 
+[16:36:02] UID: 72 EIDs: 166, 
+[16:36:02] UID: 73 EIDs: 118, 
+[16:36:02] UID: 74 EIDs: 174, 
+[16:36:02] UID: 75 EIDs: 167, 
+[16:36:02] UID: 76 EIDs: 117, 
+[16:36:02] UID: 77 EIDs: 175, 
+[16:36:02] UID: 78 EIDs: 168, 
+[16:36:02] UID: 79 EIDs: 116, 
+[16:36:02] UID: 80 EIDs: 176, 
+[16:36:02] UID: 81 EIDs: 169, 
+[16:36:02] UID: 82 EIDs: 136, 
+[16:36:02] UID: 83 EIDs: 177, 
+[16:36:02] UID: 84 EIDs: 144, 
+[16:36:02] UID: 85 EIDs: 178, 
+[16:36:02] UID: 86 EIDs: 134, 
+[16:36:02] UID: 87 EIDs: 180, 
+[16:36:02] UID: 88 EIDs: 151, 
+[16:36:02] UID: 89 EIDs: 181, 
+[16:36:02] UID: 90 EIDs: 122, 
+[16:36:02] UID: 91 EIDs: 163, 
+[16:36:02] UID: 92 EIDs: 182, 
+[16:36:02] UID: 93 EIDs: 123, 
+[16:36:02] UID: 94 EIDs: 162, 
+[16:36:02] UID: 95 EIDs: 183, 
+[16:36:02] UID: 96 EIDs: 124, 
+[16:36:02] UID: 97 EIDs: 161, 
+[16:36:02] UID: 98 EIDs: 184, 
+[16:36:02] UID: 99 EIDs: 125, 
+[16:36:02] UID: 100 EIDs: 160, 
+[16:36:02] UID: 101 EIDs: 185, 
+[16:36:02] UID: 102 EIDs: 133, 
+[16:36:02] UID: 103 EIDs: 186, 
+[16:36:02] UID: 104 EIDs: 152, 
+[16:36:02] UID: 105 EIDs: 132, 
+[16:36:02] UID: 106 EIDs: 187, 
+[16:36:02] UID: 107 EIDs: 153, 
+[16:36:02] UID: 108 EIDs: 131, 
+[16:36:02] UID: 109 EIDs: 188, 
+[16:36:02] UID: 110 EIDs: 154, 
+[16:36:02] UID: 111 EIDs: 130, 
+[16:36:02] UID: 112 EIDs: 189, 
+[16:36:02] UID: 113 EIDs: 155, 
+[16:36:02] UID: 114 EIDs: 129, 
+[16:36:02] UID: 115 EIDs: 190, 
+[16:36:02] UID: 116 EIDs: 156, 
+[16:36:02] UID: 117 EIDs: 128, 
+[16:36:02] UID: 118 EIDs: 191, 
+[16:36:02] UID: 119 EIDs: 157, 
+[16:36:02] UID: 120 EIDs: 127, 
+[16:36:02] UID: 121 EIDs: 192, 
+[16:36:02] UID: 122 EIDs: 158, 
+[16:36:02] UID: 123 EIDs: 126, 
+[16:36:02] UID: 124 EIDs: 159, 
+[16:36:02] UID: 125 EIDs: 140, 
+[16:36:02] UID: 126 EIDs: 193, 
+[16:36:02] UID: 127 EIDs: 194, 
+[16:36:02] UID: 128 EIDs: 195, 
+[16:36:02] UID: 129 EIDs: 138, 
+[16:36:02] UID: 130 EIDs: 179, 
+[16:36:02] UID: 131 EIDs: 142, 
+[16:36:02] UID: 132 EIDs: 196, 
+[16:36:02] UID: 133 EIDs: 197, 
+[16:36:02] UID: 134 EIDs: 139, 
+[16:36:02] UID: 135 EIDs: 141, 
+[16:36:02] UID: 136 EIDs: 135, 
+[16:36:02] UID: 137 EIDs: 150, 
+[16:36:02] UID: 138 EIDs: 198, 
+[16:36:02] UID: 139 EIDs: 145, 
+[16:36:02] UID: 140 EIDs: 52, 115, 
+[16:36:02] UID: 141 EIDs: 49, 148, 
+[16:36:02] UID: 142 EIDs: 48, 
+[16:36:02] UID: 143 EIDs: 48, 
+[16:36:02] UID: 144 EIDs: 48, 
+[16:36:02] UID: 145 EIDs: 48, 
+[16:36:02] UID: 146 EIDs: 48, 
+[16:36:02] UID: 147 EIDs: 48, 
+[16:36:02] UID: 148 EIDs: 48, 
+[16:36:02] UID: 149 EIDs: 47, 
+[16:36:02] UID: 150 EIDs: 48, 
+[16:36:02] UID: 151 EIDs: 48, 
+[16:36:02] UID: 152 EIDs: 49, 
+[16:36:02] UID: 153 EIDs: 50, 147, 
+[16:36:02] UID: 154 EIDs: 47, 149, 
+[16:36:02] UID: 155 EIDs: 51, 
+[16:36:02] UID: 156 EIDs: 54, 
+[16:36:02] UID: 157 EIDs: 55, 
+[16:36:02] UID: 158 EIDs: 53, 
+[16:36:02] UID: 159 EIDs: 53, 
+[16:36:02] UID: 160 EIDs: 53, 
+[16:36:02] UID: 161 EIDs: 53, 
+[16:36:02] UID: 162 EIDs: 53, 
+[16:36:02] UID: 163 EIDs: 53, 
+[16:36:02] UID: 164 EIDs: 53, 
+[16:36:02] UID: 165 EIDs: 53, 
+[16:36:02] UID: 166 EIDs: 53, 
+[16:36:02] UID: 167 EIDs: 53, 
+[16:36:02] UID: 168 EIDs: 52, 
+[16:36:02] UID: 169 EIDs: 53, 
+[16:36:02] UID: 170 EIDs: 53, 137, 
+[16:36:02] UID: 171 EIDs: 53, 143, 
+[16:36:02] UID: 172 EIDs: 51, 146, 
+[16:36:02] UID: 173 EIDs: 48, 
+[16:36:02] UID: 174 EIDs: 53, 
+[16:36:02] UID: 175 EIDs: 56, 
+[16:36:02] UID: 176 EIDs: 57, 
+[16:36:02] UID: 177 EIDs: 58, 
+[16:36:02] UID: 178 EIDs: 11, 
+[16:36:02] UID: 179 EIDs: 12, 
+[16:36:02] UID: 180 EIDs: 13, 
+[16:36:02] UID: 181 EIDs: 14, 
+[16:36:02] UID: 182 EIDs: 15, 
+[16:36:02] UID: 183 EIDs: 17, 
+[16:36:02] UID: 184 EIDs: 18, 
+[16:36:02] UID: 185 EIDs: 20, 
+[16:36:02] UID: 186 EIDs: 21, 
+[16:36:02] UID: 187 EIDs: 22, 
+[16:36:02] UID: 188 EIDs: 23, 
+[16:36:02] UID: 189 EIDs: 24, 
+[16:36:02] UID: 190 EIDs: 25, 
+[16:36:02] UID: 191 EIDs: 26, 
+[16:36:02] UID: 192 EIDs: 27, 
+[16:36:02] UID: 193 EIDs: 28, 
+[16:36:02] UID: 194 EIDs: 29, 
+[16:36:02] UID: 195 EIDs: 30, 
+[16:36:02] UID: 196 EIDs: 31, 
+[16:36:02] UID: 197 EIDs: 32, 
+[16:36:02] UID: 198 EIDs: 33, 
+[16:36:02] UID: 199 EIDs: 34, 
+[16:36:02] UID: 200 EIDs: 35, 
+[16:36:02] UID: 201 EIDs: 36, 
+[16:36:02] UID: 202 EIDs: 37, 
+[16:36:02] UID: 203 EIDs: 6, 16, 
+[16:36:02] WARNING: Equivalent EIDs 6, 16 resolved to 6
+[16:36:02] UID: 204 EIDs: 2, 
+[16:36:02] UID: 205 EIDs: 2, 
+[16:36:02] UID: 206 EIDs: 2, 
+[16:36:02] UID: 207 EIDs: 2, 
+[16:36:02] UID: 208 EIDs: 2, 
+[16:36:02] UID: 209 EIDs: 2, 
+[16:36:02] UID: 210 EIDs: 2, 
+[16:36:02] UID: 211 EIDs: 2, 
+[16:36:02] UID: 212 EIDs: 2, 
+[16:36:02] UID: 213 EIDs: 2, 10, 
+[16:36:02] UID: 214 EIDs: 4, 
+[16:36:02] UID: 215 EIDs: 3, 
+[16:36:02] UID: 216 EIDs: 3, 
+[16:36:02] UID: 217 EIDs: 3, 
+[16:36:02] UID: 218 EIDs: 3, 
+[16:36:02] UID: 219 EIDs: 3, 
+[16:36:02] UID: 220 EIDs: 3, 
+[16:36:02] UID: 221 EIDs: 3, 
+[16:36:02] UID: 222 EIDs: 3, 
+[16:36:02] UID: 223 EIDs: 3, 
+[16:36:02] UID: 224 EIDs: 3, 
+[16:36:02] UID: 225 EIDs: 3, 
+[16:36:02] UID: 226 EIDs: 3, 9, 
+[16:36:02] UID: 227 EIDs: 5, 
+[16:36:02] UID: 228 EIDs: 5, 19, 
+[16:36:02] WARNING: Equivalent EIDs 5, 19 resolved to 5
+[16:36:02] UID: 229 EIDs: 2, 
+[16:36:02] UID: 230 EIDs: 3, 
+[16:36:02] UID: 231 EIDs: 4, 38, 
+[16:36:02] WARNING: Equivalent EIDs 4, 38 resolved to 4
+[16:36:02] UID: 232 EIDs: 5, 
+[16:36:02] UID: 233 EIDs: 6, 
+[16:36:02] UID: 234 EIDs: 7, 
+[16:36:02] UID: 235 EIDs: 1, 
+[16:36:02] UID: 236 EIDs: 1, 8, 
+[16:36:02] UID: 237 EIDs: 1, 
+[16:36:02] - Reading information
+[16:36:02] - Storing model cells
+[16:36:02] - OK
+[16:36:02] Creating ModelDatabase
+[16:36:02] - Model stats: VERTICES = 62, EDGES = 115, FACES = 57, CELLS = 3
+[16:36:02] Problem class: High Frequency
+[16:36:02] - Mesh sizes: global mesh size near to model = 27.1786
+              min requested = 27.1786
+              max requested = 27.1786
+[16:36:02] - OK
+[16:36:02] -- Building object info
+[16:36:02] -- OK
+[16:36:02] Temporary directory: "C:\Users\ethoeng\Desktop\CST MWS Files\Copy ninecell\Temp\1-temp.tet"
+[16:36:02] [CADSurf] Section started.
+[16:36:02] [CADSurf] MeshGems Version: MeshGems-Core 1.3-6
+[16:36:02] [CADSurf] == PreCAD Parameters == 
+[16:36:02] [CADSurf] Bounding box diagonal = 1338.2
+[16:36:02] [CADSurf] meshgems_precad_set_param(pcs, "verbose",  "5")
+[16:36:02] [CADSurf] meshgems_precad_set_param(pcs, "remove_nano_edges",  "0")
+[16:36:02] [CADSurf] meshgems_precad_set_param(pcs, "discard_input_topology",  "0")
+[16:36:02] [CADSurf] meshgems_precad_set_param(pcs, "process_3d_topology",  "0")
+[16:36:02] [CADSurf] meshgems_precad_set_param(pcs, "discard_input_2d_topology",  "0")
+[16:36:02] [CADSurf] Default periodic tolerance (1e-5*diag) = 0.013382
+[16:36:02] [CADSurf] Minimum periodic tolerance = 1e-005
+[16:36:02] [CADSurf] Setting it to max( 1e-005, 0.013382 )
+[16:36:02] [CADSurf] meshgems_precad_set_param(pcs, "periodic_tolerance",  "0.0133819801122614")
+[16:36:02] [CADSurf] meshgems_precad_set_param(pcs, "remove_duplicate_cad_faces",  "0")
+[16:36:02] [CADSurf] meshgems_precad_set_param(pcs, "remove_tiny_uv_edges",  "0")
+[16:36:02] [CADSurf] ==
+[16:36:02] [CADSurf] PreCAD status: STATUS_OK
+[16:36:02] [CADSurf] MeshGems Version: MeshGems-Core 1.3-6
+[16:36:02] [CADSurf] == CADSurf Parameters == 
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "verbose",  "3")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "geometric_size_mode",  "local")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "physical_size_mode",  "local")
+[16:36:02] [CADSurf] 	 Max user size    = 27.1786
+[16:36:02] [CADSurf] 	 Global size near = 27.1786
+[16:36:02] [CADSurf] 	 Global size far  = 27.1786
+[16:36:02] [CADSurf] 	 Upper size bound = 27.1786
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "max_size",  "27.178640191375226")
+[16:36:02] [CADSurf] 	PreCAD model box diagonal = 1338.2
+[16:36:02] [CADSurf] 	Default lower size bound (1e-3*diag) = 1.3382
+[16:36:02] [CADSurf] 	Minimum size requested by user = 27.1786
+[16:36:02] [CADSurf] 	Default lower size bound is too large (large bbox), consider using (0.01 * mesh size near to model) = 0.271786
+[16:36:02] [CADSurf] 	Using "size_min" setting for geometric refinement
+[16:36:02] [CADSurf] 	Setting "size_min" for CADSurf  = 0.27178640191375225
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "min_size",  "0.27178640191375225")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "max_number_of_points_per_patch",  "0")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "element_generation",  "triangle")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "gradation",  "2")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "volume_gradation",  "2")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "patch_independent",  "0")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_edges",  "0")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "optimise_tiny_edges",  "0")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "tiny_edge_respect_geometry",  "1")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "CheckWellDefined",  "8")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "anisotropic",  "1")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "anisotropic_ratio",  "5")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "correct_surface_intersections",  "1")
+[16:36:02] [CADSurf] meshgems_cadsurf_set_param(css, "intersection_processing_max_cost",  "15")
+[16:36:02] [CADSurf] ==
+[16:36:03] [CADSurf] Status: OK
+[16:36:03] [CADSurf] Number of intersecting edges: 0
+[16:36:03] [CADSurf] Number of intersecting faces: 0
+[16:36:03] [CADSurf] - Mesh stats: N=2443, E=819, T=5240, Q=0
+[16:36:03] [CADSurf] Testing watertightness
+[16:36:03] [CADSurf] - OK
+[16:36:03] [CADSurf] Section finished. Time (s): 0.532
+[16:36:03] Labeling mesh entities
+[16:36:03] Decomposing surface mesh
+[16:36:03] - Number of surface mesh entities: Nodes = 2443, Edges = 819, Faces = 5240
+[16:36:03] - Saving subdomains
+[16:36:03] -- Saving "component1:pipe1" as "tmp_sd_2"
+[16:36:03] Creating volume mesh
+[16:36:03] - Submitting for meshing subdomain 1 of 1, Name: 'component1:pipe1'
+[16:36:03]  - File: tmp_sd_2
+[16:36:03] GHS3DLoop: Preparing worker for subdomain component1:pipe1
+[16:36:03] GHS3DLoop: Generating GHS3D command line for subdomain component1:pipe1
+[16:36:03] GHS3DLoop: Generated GHS3D Command Line:
+		C:\Program Files (x86)\CST STUDIO SUITE 2015\AMD64\ghs3d_AMD64.exe --in tmp_sd_2 --out tmp_sd_2_out.meshb  --key ed1e866d945e5407c960e7fcd623ee378d5de2e7df3f0d4c5acee0702b60b2fd16fd3609cf483941310b3ac18a --max_memory 2048 --use_deprecated_errors yes -Dcpropa=2 -H-1:27.1786:2 -b -c 1 -t -v 0
+[16:36:03] GHS3DLoop: Added worker for subdomain component1:pipe1 to the workers list
+[16:36:03] Volume meshing: 1 threads will be allocated to mesh 1 sub-domains.
+[16:36:03] Usable physical memory (bytes):    2458087424
+[16:36:03] Available physical memory (bytes): 2458087424
+[16:36:03] Number of cores: 4
+[16:36:03] GHS3DLoop: Entering the Run function with 1 threads.
+[16:36:03] GHS3DLoop: Created pool to process workers
+[16:36:03] GHS3DLoop: Added  worker (subdomain component1:pipe1) to the pool
+[16:36:03] GHS3DWorker: Running GHS3D for subdomain "component1:pipe1" (first try)
+[16:36:03] GHS3DWorker: Starting Command: C:\Program Files (x86)\CST STUDIO SUITE 2015\AMD64\AppRunner_AMD64.exe --interval 1000 --parent 5676 --command "C:\Program Files (x86)\CST STUDIO SUITE 2015\AMD64\ghs3d_AMD64.exe --in tmp_sd_2 --out tmp_sd_2_out.meshb  --key ed1e866d945e5407c960e7fcd623ee378d5de2e7df3f0d4c5acee0702b60b2fd16fd3609cf483941310b3ac18a --max_memory 2048 --use_deprecated_errors yes -Dcpropa=2 -H-1:27.1786:2 -b -c 1 -t -v 0" --output "tmp_sd_2_out.txt"
+[16:36:05] GHS3DLoop: All workers in the WorkerPool finished
+[16:36:05] GHS3DLoop: Calling forced shutdown, for safety (effective if an abort was requested)
+[16:36:05] GHS3DLoop: Pool successfully shut down
+[16:36:05] Assembling volume mesh
+[16:36:05] - Reading tmp_sd_2_out.meshb
+[16:36:05] - Number of elements for tmp_sd_2:9227
+[16:36:05] - Volume mesh stats: Nb nodes = 3190, Nb edges = 15781, Nb faces = 21821, Nb tets = 9227
+[16:36:05] - Min/Max edge length after volume mesh assembly: min = 0.601374, max = 43.7317
+[16:36:05] Writing slim mesh file
+[16:36:05] Using generalized mesh output routines.
+[16:36:05] Writing Bc file
+[16:36:05] Writing gex file for volume mesh
+[16:36:05] Using generalized UID topology and model geometry output
+[16:36:05] Mesh curving:
+[16:36:05]     available cores:   4
+[16:36:05]     number of threads: 4 (NumberOfParallelThreads setting)
+[16:36:05] Curving elements
+[16:36:12] Done
+=== END SESSION ============================================================
+=== BEGIN SESSION ==========================================================
+[16:36:22] Build: 64bit; Number: 20151030; ID: 2015.6 Release from 2015-10-30 (change 399873); Date: 2015-10-30
+[16:36:22] ACIS version: 24.0.2
+[16:36:22] SPAresabs = 1e-006
+[16:36:22] SPAresnor = 1e-010
+[16:36:22] Adaptive mesh refinement (pos.snap.)
+[16:36:22] - Refining mesh
+[16:36:22] Problem class: High Frequency
+[16:36:31] - OK
+[16:36:31] Done
+=== END SESSION ============================================================

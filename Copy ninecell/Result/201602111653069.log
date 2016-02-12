@@ -1,0 +1,22 @@
+
+Mode 9
+
+ Frequency      =   1.3009493E+00 GHz
+
+ Total Q        =   6.7796576E+07
+ Total Loss_av  =   1.1914385E+02
+ Total Energy   =   9.8818704E-01
+
+QFI-File (settings of Loss and Q-calculation):
+==============================================
+
+Q-Factor Information File Version 20010206
+H-Field Mode 9
+Frequency/Hz 1.300949317325e+009
+Boundary Xmin1 Xmax1 Ymin1 Ymax1 Zmin1 Zmax1
+Method new
+Save3D FALSE
+Layer **Cond. Enclosure** 3.200000000000e+014 1.000000000000e+000
+
+
+

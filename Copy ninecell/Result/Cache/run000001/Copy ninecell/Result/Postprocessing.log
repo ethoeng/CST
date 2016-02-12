@@ -1,0 +1,21 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 04:06 PM Thursday, 11. February 2016
+
+  Evaluating 'Frequency (Mode 9)': 0 s
+  Evaluating 'Q-Factor (Perturbation) (Mode 1)': 3 s
+  Evaluating 'Voltage (Mode 1)': 1 s
+
+  Total time: 5 s  ( = 0 h, 0 m, 5 s )
+
+Template based postprocessing finished at: 04:06 PM Thursday, 11. February 2016
+----------------------------------------------------------------------------------------
